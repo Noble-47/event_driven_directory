@@ -9,13 +9,9 @@ The project separates concerns into distinct layers and modules, ensuring clean 
 ## Table of Contents
 
 - [Project Structure](#project-structure)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Key Concepts](#key-concepts)
+- [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
